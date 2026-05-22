@@ -6,5 +6,12 @@ This repository contains hands-on guides for real‑world identity and access ma
 
 ---
 
+| **Project No.** | **Project Title**                                             | **Description**                                                                                           |
+|-------------|-----------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|
+| 1           | [SSO Implementation with Keycloak] | Set up. |
+| 2           |Multi-Factor Authentication (MFA) Implementation]                         | Utilize  |
+
+
+---
 
 ## About Me
