@@ -23,14 +23,13 @@ Legend: **Lab** = numbered hands-on lab · **Stage Check** = milestone review ·
 
 | # | Type | Title | Folder | Done |
 |---|------|-------|--------|------|
-| 1 | Lab | SSO Implementation with Keycloak | [`project-01-oidc-sso-application/`](./project-01-oidc-sso-application) | ☐ |
-| 2 | Lab | Create and Secure Your First Admin User | [`lab-02-create-and-secure-your-first-admin-user/`](./lab-03-create-and-secure-your-first-admin-user) | ☐ |
-| 3 | Lab | Turn on CloudTrail | [`lab-03-turn-on-cloudtrail/`](./lab-03-turn-on-cloudtrail) | ☐ |
-| 5 | Special | CloudSLAW Holiday Special: Family Tech Support | [`special-cloudslaw-holiday-special-family-tech-support/`](./special-cloudslaw-holiday-special-family-tech-support) | ☐ |
-| 6 | Lab | Timmy's First CloudFormation | [`lab-05-timmys-first-cloudformation/`](./lab-05-timmys-first-cloudformation) | ☐ |
-| 7 | Lab | Follow the Money! | [`lab-06-follow-the-money/`](./lab-06-follow-the-money) | ☐ |
-| 8 | Lab | Create Your First AWS IAM Role | [`lab-07-create-your-first-aws-iam-role/`](./lab-07-create-your-first-aws-iam-role) | ☐ |
-| 9 | Lab | Write a Simple IAM Policy | [`lab-08-write-a-simple-iam-policy/`](./lab-08-write-a-simple-iam-policy) | ☐ |
+| 1 | Project | SSO Implementation with Keycloak | [`project-01-oidc-sso-application/`](./project-01-oidc-sso-application) | ☐ |
+| 2 |  Project | Create and Secure Your First Admin User | [`lab-02-create-and-secure-your-first-admin-user/`](./lab-03-create-and-secure-your-first-admin-user) | ☐ |
+| 3 |  Project | Turn on CloudTrail | [`lab-03-turn-on-cloudtrail/`](./lab-03-turn-on-cloudtrail) | ☐ | 
+| 6 |  Project | Timmy's First CloudFormation | [`lab-05-timmys-first-cloudformation/`](./lab-05-timmys-first-cloudformation) | ☐ |
+| 7 |  Project | Follow the Money! | [`lab-06-follow-the-money/`](./lab-06-follow-the-money) | ☐ |
+| 8 |  Project | Create Your First AWS IAM Role | [`lab-07-create-your-first-aws-iam-role/`](./lab-07-create-your-first-aws-iam-role) | ☐ |
+| 9 |  Project | Write a Simple IAM Policy | [`lab-08-write-a-simple-iam-policy/`](./lab-08-write-a-simple-iam-policy) | ☐ |
 ---
 
 ## About Me
