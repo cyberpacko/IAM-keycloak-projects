@@ -19,7 +19,7 @@ Each lab/post folder contains:
 
 ## Progress Tracker
 
-Legend: **Lab** = numbered hands-on lab · **Stage Check** = milestone review · **Monthly Update** = admin/roundup post · **Correction** = errata · **Special/News/Announcement** = one-off community posts.
+Legend: **Lab** = numbered hands-on lab · **Stage Check** = milestone review · 
 
 | # | Type | Title | Folder | Done |
 |---|------|-------|--------|------|
